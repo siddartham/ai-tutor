@@ -1,0 +1,10 @@
+1. What does it mean for a function to be continuous at a particular point?
+2. How can you tell if a function is continuous everywhere in its domain?
+3. Can a function be continuous at some points but not at others? Give an example.
+4. What types of discontinuities can occur in a function?
+5. How can a graph help you determine whether a function is continuous?
+6. Is every straight-line function continuous? Why or why not?
+7. What happens to the continuity of a function if there is a hole in its graph?
+8. How do piecewise-defined functions affect continuity?
+9. Can a function have a jump in its graph and still be considered continuous?
+10. Why is continuity important when solving real-world problems involving change?
